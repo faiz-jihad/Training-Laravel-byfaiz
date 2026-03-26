@@ -20,7 +20,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=F7B32B&center=true&vCenter=true&width=500&lines=📚+Belajar+Sambil+Praktek;⚡+From+Zero+to+Hero;🚀+Siap+Produksi!;💡+Best+Practices+Industry" alt="Fun Facts" />
 </p>
 
-Repository ini adalah sumber belajar **satu-stop** untuk menguasai pengembangan backend menggunakan Laravel. Bukan cuma teori — tapi **hands-on coding** dengan skenario dunia nyata!
+Repository ini adalah sumber belajar **satu-step** untuk menguasai pengembangan backend menggunakan Laravel. Bukan cuma teori — tapi **hands-on coding** dengan skenario dunia nyata!
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.1%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![Laravel Version](https://img.shields.io/badge/Laravel-11.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
